@@ -5,7 +5,7 @@
 ---
 
 ---
-![Ozzy Stats](https://github-readme-stats.vercel.app/api?username=oktawianlagiewski&theme=radical&hide_border=true)
+![Ozzy Stats](https://github-readme-stats.vercel.app/api?username=oktawianlagiewski&theme=radical&hide_border=true&count_private=true&show_icons=true)
 ---
 
 <!--
